@@ -1,3 +1,4 @@
+// Package themes stores all base16 themes in a global map.
 package themes
 
 import "image/color"
@@ -24,5 +25,5 @@ type Theme struct {
 	Color0F color.RGBA
 }
 
-// Base maps theme name to theme data.
+// Base16 maps theme name to theme data.
 var Base16 = make(map[string]Theme)
