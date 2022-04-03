@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Brush Trees"] = Theme{
 		Name: "Brush Trees",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 134, G: 140, B: 179, A: 255},
 		Color0E: color.RGBA{R: 179, G: 134, B: 178, A: 255},
 		Color0F: color.RGBA{R: 179, G: 159, B: 159, A: 255},
-	})
+	}
 }

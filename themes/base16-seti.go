@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Seti UI"] = Theme{
 		Name: "Seti UI",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 85, G: 181, B: 219, A: 255},
 		Color0E: color.RGBA{R: 160, G: 116, B: 196, A: 255},
 		Color0F: color.RGBA{R: 138, G: 85, B: 63, A: 255},
-	})
+	}
 }

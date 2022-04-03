@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Solar Flare"] = Theme{
 		Name: "Solar Flare",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 51, G: 181, B: 225, A: 255},
 		Color0E: color.RGBA{R: 163, G: 99, B: 213, A: 255},
 		Color0F: color.RGBA{R: 215, G: 60, B: 154, A: 255},
-	})
+	}
 }

@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["OceanicNext"] = Theme{
 		Name: "OceanicNext",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 102, G: 153, B: 204, A: 255},
 		Color0E: color.RGBA{R: 197, G: 148, B: 197, A: 255},
 		Color0F: color.RGBA{R: 171, G: 121, B: 103, A: 255},
-	})
+	}
 }

@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Shapeshifter"] = Theme{
 		Name: "Shapeshifter",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 59, G: 72, B: 227, A: 255},
 		Color0E: color.RGBA{R: 249, G: 150, B: 226, A: 255},
 		Color0F: color.RGBA{R: 105, G: 84, B: 45, A: 255},
-	})
+	}
 }

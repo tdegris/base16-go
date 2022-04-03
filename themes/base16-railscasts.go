@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Railscasts"] = Theme{
 		Name: "Railscasts",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 109, G: 156, B: 190, A: 255},
 		Color0E: color.RGBA{R: 182, G: 179, B: 235, A: 255},
 		Color0F: color.RGBA{R: 188, G: 148, B: 88, A: 255},
-	})
+	}
 }

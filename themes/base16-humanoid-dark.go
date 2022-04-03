@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Humanoid dark"] = Theme{
 		Name: "Humanoid dark",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 0, G: 166, B: 251, A: 255},
 		Color0E: color.RGBA{R: 241, G: 94, B: 227, A: 255},
 		Color0F: color.RGBA{R: 178, G: 119, B: 1, A: 255},
-	})
+	}
 }

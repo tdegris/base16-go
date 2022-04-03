@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Codeschool"] = Theme{
 		Name: "Codeschool",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 72, G: 77, B: 121, A: 255},
 		Color0E: color.RGBA{R: 197, G: 152, B: 32, A: 255},
 		Color0F: color.RGBA{R: 201, G: 131, B: 68, A: 255},
-	})
+	}
 }

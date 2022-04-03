@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Gruvbox dark, hard"] = Theme{
 		Name: "Gruvbox dark, hard",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 131, G: 165, B: 152, A: 255},
 		Color0E: color.RGBA{R: 211, G: 134, B: 155, A: 255},
 		Color0F: color.RGBA{R: 214, G: 93, B: 14, A: 255},
-	})
+	}
 }

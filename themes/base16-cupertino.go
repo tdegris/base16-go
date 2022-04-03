@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Cupertino"] = Theme{
 		Name: "Cupertino",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 0, G: 0, B: 255, A: 255},
 		Color0E: color.RGBA{R: 169, G: 13, B: 145, A: 255},
 		Color0F: color.RGBA{R: 130, G: 107, B: 40, A: 255},
-	})
+	}
 }

@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Unikitty Light"] = Theme{
 		Name: "Unikitty Light",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 119, G: 93, B: 255, A: 255},
 		Color0E: color.RGBA{R: 170, G: 23, B: 230, A: 255},
 		Color0F: color.RGBA{R: 224, G: 19, B: 208, A: 255},
-	})
+	}
 }

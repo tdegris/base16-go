@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Outrun Dark"] = Theme{
 		Name: "Outrun Dark",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 102, G: 176, B: 255, A: 255},
 		Color0E: color.RGBA{R: 241, G: 5, B: 150, A: 255},
 		Color0F: color.RGBA{R: 240, G: 3, B: 239, A: 255},
-	})
+	}
 }

@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["XCode Dusk"] = Theme{
 		Name: "XCode Dusk",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 121, G: 14, B: 173, A: 255},
 		Color0E: color.RGBA{R: 178, G: 24, B: 137, A: 255},
 		Color0F: color.RGBA{R: 199, G: 124, B: 72, A: 255},
-	})
+	}
 }

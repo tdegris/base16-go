@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Windows NT Light"] = Theme{
 		Name: "Windows NT Light",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 0, G: 0, B: 128, A: 255},
 		Color0E: color.RGBA{R: 128, G: 0, B: 128, A: 255},
 		Color0F: color.RGBA{R: 0, G: 255, B: 0, A: 255},
-	})
+	}
 }

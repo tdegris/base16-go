@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Bespin"] = Theme{
 		Name: "Bespin",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 94, G: 166, B: 234, A: 255},
 		Color0E: color.RGBA{R: 155, G: 133, B: 157, A: 255},
 		Color0F: color.RGBA{R: 147, G: 113, B: 33, A: 255},
-	})
+	}
 }

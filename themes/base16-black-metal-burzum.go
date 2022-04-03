@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Black Metal (Burzum)"] = Theme{
 		Name: "Black Metal (Burzum)",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 136, G: 136, B: 136, A: 255},
 		Color0E: color.RGBA{R: 153, G: 153, B: 153, A: 255},
 		Color0F: color.RGBA{R: 68, G: 68, B: 68, A: 255},
-	})
+	}
 }

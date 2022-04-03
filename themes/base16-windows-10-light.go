@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Windows 10 Light"] = Theme{
 		Name: "Windows 10 Light",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 0, G: 55, B: 218, A: 255},
 		Color0E: color.RGBA{R: 136, G: 23, B: 152, A: 255},
 		Color0F: color.RGBA{R: 22, G: 198, B: 12, A: 255},
-	})
+	}
 }

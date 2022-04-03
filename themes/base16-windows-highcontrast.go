@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Windows High Contrast"] = Theme{
 		Name: "Windows High Contrast",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 84, G: 84, B: 252, A: 255},
 		Color0E: color.RGBA{R: 252, G: 84, B: 252, A: 255},
 		Color0F: color.RGBA{R: 0, G: 128, B: 0, A: 255},
-	})
+	}
 }

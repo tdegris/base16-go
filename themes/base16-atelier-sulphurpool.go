@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Atelier Sulphurpool"] = Theme{
 		Name: "Atelier Sulphurpool",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 61, G: 143, B: 209, A: 255},
 		Color0E: color.RGBA{R: 102, G: 121, B: 204, A: 255},
 		Color0F: color.RGBA{R: 156, G: 99, B: 122, A: 255},
-	})
+	}
 }

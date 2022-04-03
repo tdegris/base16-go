@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["London Tube"] = Theme{
 		Name: "London Tube",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 0, G: 157, B: 220, A: 255},
 		Color0E: color.RGBA{R: 152, G: 0, B: 93, A: 255},
 		Color0F: color.RGBA{R: 176, G: 97, B: 16, A: 255},
-	})
+	}
 }

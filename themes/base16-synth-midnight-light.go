@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Synth Midnight Terminal Light"] = Theme{
 		Name: "Synth Midnight Terminal Light",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 3, G: 174, B: 255, A: 255},
 		Color0E: color.RGBA{R: 234, G: 92, B: 226, A: 255},
 		Color0F: color.RGBA{R: 205, G: 99, B: 32, A: 255},
-	})
+	}
 }

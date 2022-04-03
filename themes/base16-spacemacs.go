@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Spacemacs"] = Theme{
 		Name: "Spacemacs",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 79, G: 151, B: 215, A: 255},
 		Color0E: color.RGBA{R: 163, G: 29, B: 177, A: 255},
 		Color0F: color.RGBA{R: 176, G: 48, B: 96, A: 255},
-	})
+	}
 }

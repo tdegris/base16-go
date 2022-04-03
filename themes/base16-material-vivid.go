@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Material Vivid"] = Theme{
 		Name: "Material Vivid",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 33, G: 150, B: 243, A: 255},
 		Color0E: color.RGBA{R: 103, G: 58, B: 183, A: 255},
 		Color0F: color.RGBA{R: 141, G: 110, B: 99, A: 255},
-	})
+	}
 }

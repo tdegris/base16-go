@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Darktooth"] = Theme{
 		Name: "Darktooth",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 13, G: 102, B: 120, A: 255},
 		Color0E: color.RGBA{R: 143, G: 70, B: 115, A: 255},
 		Color0F: color.RGBA{R: 168, G: 115, B: 34, A: 255},
-	})
+	}
 }

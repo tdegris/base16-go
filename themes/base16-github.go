@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Github"] = Theme{
 		Name: "Github",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 121, G: 93, B: 163, A: 255},
 		Color0E: color.RGBA{R: 167, G: 29, B: 93, A: 255},
 		Color0F: color.RGBA{R: 51, G: 51, B: 51, A: 255},
-	})
+	}
 }

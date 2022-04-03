@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Google Dark"] = Theme{
 		Name: "Google Dark",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 57, G: 113, B: 237, A: 255},
 		Color0E: color.RGBA{R: 163, G: 106, B: 199, A: 255},
 		Color0F: color.RGBA{R: 57, G: 113, B: 237, A: 255},
-	})
+	}
 }

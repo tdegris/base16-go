@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Windows 95 Light"] = Theme{
 		Name: "Windows 95 Light",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 0, G: 0, B: 168, A: 255},
 		Color0E: color.RGBA{R: 168, G: 0, B: 168, A: 255},
 		Color0F: color.RGBA{R: 84, G: 252, B: 84, A: 255},
-	})
+	}
 }

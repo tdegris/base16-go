@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Gigavolt"] = Theme{
 		Name: "Gigavolt",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 64, G: 191, B: 255, A: 255},
 		Color0E: color.RGBA{R: 174, G: 148, B: 249, A: 255},
 		Color0F: color.RGBA{R: 97, G: 135, B: 255, A: 255},
-	})
+	}
 }

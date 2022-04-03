@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Helios"] = Theme{
 		Name: "Helios",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 30, G: 139, B: 172, A: 255},
 		Color0E: color.RGBA{R: 190, G: 66, B: 100, A: 255},
 		Color0F: color.RGBA{R: 200, G: 94, B: 13, A: 255},
-	})
+	}
 }

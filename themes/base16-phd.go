@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["PhD"] = Theme{
 		Name: "PhD",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 82, G: 153, B: 191, A: 255},
 		Color0E: color.RGBA{R: 153, G: 137, B: 204, A: 255},
 		Color0F: color.RGBA{R: 176, G: 128, B: 96, A: 255},
-	})
+	}
 }

@@ -1,5 +1,7 @@
 package themes
 
+import "image/color"
+
 func init() {
 	Base16["Equilibrium Gray Dark"] = Theme{
 		Name: "Equilibrium Gray Dark",
@@ -20,5 +22,5 @@ func init() {
 		Color0D: color.RGBA{R: 0, G: 141, B: 209, A: 255},
 		Color0E: color.RGBA{R: 106, G: 127, B: 210, A: 255},
 		Color0F: color.RGBA{R: 227, G: 72, B: 142, A: 255},
-	})
+	}
 }
