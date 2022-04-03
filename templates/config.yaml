@@ -1,0 +1,3 @@
+default: 
+    extension: .go
+    output: themes
