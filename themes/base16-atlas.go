@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Atlas"] = Theme{
-		Name: "Atlas",
-		Author: "Alex Lende (https://ajlende.com)",
+		Name:    "Atlas",
+		Author:  "Alex Lende (https://ajlende.com)",
 		Color00: color.RGBA{R: 0, G: 38, B: 53, A: 255},
 		Color01: color.RGBA{R: 0, G: 56, B: 77, A: 255},
 		Color02: color.RGBA{R: 81, G: 127, B: 141, A: 255},

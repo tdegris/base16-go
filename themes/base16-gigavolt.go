@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Gigavolt"] = Theme{
-		Name: "Gigavolt",
-		Author: "Aidan Swope (http://github.com/Whillikers)",
+		Name:    "Gigavolt",
+		Author:  "Aidan Swope (http://github.com/Whillikers)",
 		Color00: color.RGBA{R: 32, G: 33, B: 38, A: 255},
 		Color01: color.RGBA{R: 45, G: 48, B: 61, A: 255},
 		Color02: color.RGBA{R: 90, G: 87, B: 110, A: 255},

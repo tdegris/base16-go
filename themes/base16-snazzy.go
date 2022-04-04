@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Snazzy"] = Theme{
-		Name: "Snazzy",
-		Author: "Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
+		Name:    "Snazzy",
+		Author:  "Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
 		Color00: color.RGBA{R: 40, G: 42, B: 54, A: 255},
 		Color01: color.RGBA{R: 52, G: 53, B: 62, A: 255},
 		Color02: color.RGBA{R: 67, G: 69, B: 79, A: 255},

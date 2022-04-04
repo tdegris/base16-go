@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Sandcastle"] = Theme{
-		Name: "Sandcastle",
-		Author: "George Essig (https://github.com/gessig)",
+		Name:    "Sandcastle",
+		Author:  "George Essig (https://github.com/gessig)",
 		Color00: color.RGBA{R: 40, G: 44, B: 52, A: 255},
 		Color01: color.RGBA{R: 44, G: 50, B: 59, A: 255},
 		Color02: color.RGBA{R: 62, G: 68, B: 81, A: 255},

@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Mexico Light"] = Theme{
-		Name: "Mexico Light",
-		Author: "Sheldon Johnson",
+		Name:    "Mexico Light",
+		Author:  "Sheldon Johnson",
 		Color00: color.RGBA{R: 248, G: 248, B: 248, A: 255},
 		Color01: color.RGBA{R: 232, G: 232, B: 232, A: 255},
 		Color02: color.RGBA{R: 216, G: 216, B: 216, A: 255},

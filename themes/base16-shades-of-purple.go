@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Shades of Purple"] = Theme{
-		Name: "Shades of Purple",
-		Author: "Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).",
+		Name:    "Shades of Purple",
+		Author:  "Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).",
 		Color00: color.RGBA{R: 30, G: 30, B: 63, A: 255},
 		Color01: color.RGBA{R: 67, G: 212, B: 38, A: 255},
 		Color02: color.RGBA{R: 241, G: 208, B: 0, A: 255},

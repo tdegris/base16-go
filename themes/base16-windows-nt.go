@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Windows NT"] = Theme{
-		Name: "Windows NT",
-		Author: "Fergus Collins (https://github.com/C-Fergus)",
+		Name:    "Windows NT",
+		Author:  "Fergus Collins (https://github.com/C-Fergus)",
 		Color00: color.RGBA{R: 0, G: 0, B: 0, A: 255},
 		Color01: color.RGBA{R: 42, G: 42, B: 42, A: 255},
 		Color02: color.RGBA{R: 85, G: 85, B: 85, A: 255},

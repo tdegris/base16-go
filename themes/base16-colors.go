@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Colors"] = Theme{
-		Name: "Colors",
-		Author: "mrmrs (http://clrs.cc)",
+		Name:    "Colors",
+		Author:  "mrmrs (http://clrs.cc)",
 		Color00: color.RGBA{R: 17, G: 17, B: 17, A: 255},
 		Color01: color.RGBA{R: 51, G: 51, B: 51, A: 255},
 		Color02: color.RGBA{R: 85, G: 85, B: 85, A: 255},

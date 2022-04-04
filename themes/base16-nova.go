@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Nova"] = Theme{
-		Name: "Nova",
-		Author: "George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)",
+		Name:    "Nova",
+		Author:  "George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)",
 		Color00: color.RGBA{R: 60, G: 76, B: 85, A: 255},
 		Color01: color.RGBA{R: 85, G: 104, B: 115, A: 255},
 		Color02: color.RGBA{R: 106, G: 125, B: 137, A: 255},

@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["OceanicNext"] = Theme{
-		Name: "OceanicNext",
-		Author: "https://github.com/voronianski/oceanic-next-color-scheme",
+		Name:    "OceanicNext",
+		Author:  "https://github.com/voronianski/oceanic-next-color-scheme",
 		Color00: color.RGBA{R: 27, G: 43, B: 52, A: 255},
 		Color01: color.RGBA{R: 52, G: 61, B: 70, A: 255},
 		Color02: color.RGBA{R: 79, G: 91, B: 102, A: 255},

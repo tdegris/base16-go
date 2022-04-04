@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Seti UI"] = Theme{
-		Name: "Seti UI",
-		Author: "",
+		Name:    "Seti UI",
+		Author:  "",
 		Color00: color.RGBA{R: 21, G: 23, B: 24, A: 255},
 		Color01: color.RGBA{R: 40, G: 42, B: 43, A: 255},
 		Color02: color.RGBA{R: 59, G: 117, B: 140, A: 255},

@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Equilibrium Gray Dark"] = Theme{
-		Name: "Equilibrium Gray Dark",
-		Author: "Carlo Abelli",
+		Name:    "Equilibrium Gray Dark",
+		Author:  "Carlo Abelli",
 		Color00: color.RGBA{R: 17, G: 17, B: 17, A: 255},
 		Color01: color.RGBA{R: 27, G: 27, B: 27, A: 255},
 		Color02: color.RGBA{R: 38, G: 38, B: 38, A: 255},

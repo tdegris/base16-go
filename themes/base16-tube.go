@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["London Tube"] = Theme{
-		Name: "London Tube",
-		Author: "Jan T. Sott",
+		Name:    "London Tube",
+		Author:  "Jan T. Sott",
 		Color00: color.RGBA{R: 35, G: 31, B: 32, A: 255},
 		Color01: color.RGBA{R: 28, G: 63, B: 149, A: 255},
 		Color02: color.RGBA{R: 90, G: 87, B: 88, A: 255},

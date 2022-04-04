@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["darkmoss"] = Theme{
-		Name: "darkmoss",
-		Author: "Gabriel Avanzi (https://github.com/avanzzzi)",
+		Name:    "darkmoss",
+		Author:  "Gabriel Avanzi (https://github.com/avanzzzi)",
 		Color00: color.RGBA{R: 23, G: 30, B: 31, A: 255},
 		Color01: color.RGBA{R: 37, G: 44, B: 45, A: 255},
 		Color02: color.RGBA{R: 55, G: 60, B: 61, A: 255},

@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["IR Black"] = Theme{
-		Name: "IR Black",
-		Author: "Timothée Poisot (http://timotheepoisot.fr)",
+		Name:    "IR Black",
+		Author:  "Timothée Poisot (http://timotheepoisot.fr)",
 		Color00: color.RGBA{R: 0, G: 0, B: 0, A: 255},
 		Color01: color.RGBA{R: 36, G: 36, B: 34, A: 255},
 		Color02: color.RGBA{R: 72, G: 72, B: 68, A: 255},

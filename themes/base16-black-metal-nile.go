@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Black Metal (Nile)"] = Theme{
-		Name: "Black Metal (Nile)",
-		Author: "metalelf0 (https://github.com/metalelf0)",
+		Name:    "Black Metal (Nile)",
+		Author:  "metalelf0 (https://github.com/metalelf0)",
 		Color00: color.RGBA{R: 0, G: 0, B: 0, A: 255},
 		Color01: color.RGBA{R: 18, G: 18, B: 18, A: 255},
 		Color02: color.RGBA{R: 34, G: 34, B: 34, A: 255},

@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Synth Midnight Terminal Dark"] = Theme{
-		Name: "Synth Midnight Terminal Dark",
-		Author: "Michaël Ball (http://github.com/michael-ball/)",
+		Name:    "Synth Midnight Terminal Dark",
+		Author:  "Michaël Ball (http://github.com/michael-ball/)",
 		Color00: color.RGBA{R: 5, G: 6, B: 8, A: 255},
 		Color01: color.RGBA{R: 26, G: 27, B: 28, A: 255},
 		Color02: color.RGBA{R: 40, G: 41, B: 42, A: 255},

@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Default Dark"] = Theme{
-		Name: "Default Dark",
-		Author: "Chris Kempson (http://chriskempson.com)",
+		Name:    "Default Dark",
+		Author:  "Chris Kempson (http://chriskempson.com)",
 		Color00: color.RGBA{R: 24, G: 24, B: 24, A: 255},
 		Color01: color.RGBA{R: 40, G: 40, B: 40, A: 255},
 		Color02: color.RGBA{R: 56, G: 56, B: 56, A: 255},

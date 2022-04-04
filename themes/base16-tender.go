@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["tender"] = Theme{
-		Name: "tender",
-		Author: "Jacobo Tabernero (https://github/com/jacoborus/tender.vim)",
+		Name:    "tender",
+		Author:  "Jacobo Tabernero (https://github/com/jacoborus/tender.vim)",
 		Color00: color.RGBA{R: 40, G: 40, B: 40, A: 255},
 		Color01: color.RGBA{R: 56, G: 56, B: 56, A: 255},
 		Color02: color.RGBA{R: 72, G: 72, B: 72, A: 255},

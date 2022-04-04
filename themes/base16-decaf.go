@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Decaf"] = Theme{
-		Name: "Decaf",
-		Author: "Alex Mirrington (https://github.com/alexmirrington)",
+		Name:    "Decaf",
+		Author:  "Alex Mirrington (https://github.com/alexmirrington)",
 		Color00: color.RGBA{R: 45, G: 45, B: 45, A: 255},
 		Color01: color.RGBA{R: 57, G: 57, B: 57, A: 255},
 		Color02: color.RGBA{R: 81, G: 81, B: 81, A: 255},

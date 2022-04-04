@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["XCode Dusk"] = Theme{
-		Name: "XCode Dusk",
-		Author: "Elsa Gonsiorowski (https://github.com/gonsie)",
+		Name:    "XCode Dusk",
+		Author:  "Elsa Gonsiorowski (https://github.com/gonsie)",
 		Color00: color.RGBA{R: 40, G: 43, B: 53, A: 255},
 		Color01: color.RGBA{R: 61, G: 64, B: 72, A: 255},
 		Color02: color.RGBA{R: 83, G: 85, B: 93, A: 255},

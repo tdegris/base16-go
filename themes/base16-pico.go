@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Pico"] = Theme{
-		Name: "Pico",
-		Author: "PICO-8 (http://www.lexaloffle.com/pico-8.php)",
+		Name:    "Pico",
+		Author:  "PICO-8 (http://www.lexaloffle.com/pico-8.php)",
 		Color00: color.RGBA{R: 0, G: 0, B: 0, A: 255},
 		Color01: color.RGBA{R: 29, G: 43, B: 83, A: 255},
 		Color02: color.RGBA{R: 126, G: 37, B: 83, A: 255},

@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Harmonic16 Light"] = Theme{
-		Name: "Harmonic16 Light",
-		Author: "Jannik Siebert (https://github.com/janniks)",
+		Name:    "Harmonic16 Light",
+		Author:  "Jannik Siebert (https://github.com/janniks)",
 		Color00: color.RGBA{R: 247, G: 249, B: 251, A: 255},
 		Color01: color.RGBA{R: 229, G: 235, B: 241, A: 255},
 		Color02: color.RGBA{R: 203, G: 214, B: 226, A: 255},

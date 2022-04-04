@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Dracula"] = Theme{
-		Name: "Dracula",
-		Author: "Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)",
+		Name:    "Dracula",
+		Author:  "Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)",
 		Color00: color.RGBA{R: 40, G: 41, B: 54, A: 255},
 		Color01: color.RGBA{R: 58, G: 60, B: 78, A: 255},
 		Color02: color.RGBA{R: 77, G: 79, B: 104, A: 255},

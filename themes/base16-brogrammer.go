@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Brogrammer"] = Theme{
-		Name: "Brogrammer",
-		Author: "Vik Ramanujam (http://github.com/piggyslasher)",
+		Name:    "Brogrammer",
+		Author:  "Vik Ramanujam (http://github.com/piggyslasher)",
 		Color00: color.RGBA{R: 31, G: 31, B: 31, A: 255},
 		Color01: color.RGBA{R: 248, G: 17, B: 24, A: 255},
 		Color02: color.RGBA{R: 45, G: 197, B: 94, A: 255},

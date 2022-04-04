@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Macintosh"] = Theme{
-		Name: "Macintosh",
-		Author: "Rebecca Bettencourt (http://www.kreativekorp.com)",
+		Name:    "Macintosh",
+		Author:  "Rebecca Bettencourt (http://www.kreativekorp.com)",
 		Color00: color.RGBA{R: 0, G: 0, B: 0, A: 255},
 		Color01: color.RGBA{R: 64, G: 64, B: 64, A: 255},
 		Color02: color.RGBA{R: 64, G: 64, B: 64, A: 255},

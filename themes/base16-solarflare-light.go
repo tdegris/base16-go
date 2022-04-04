@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Solar Flare Light"] = Theme{
-		Name: "Solar Flare Light",
-		Author: "Chuck Harmston (https://chuck.harmston.ch)",
+		Name:    "Solar Flare Light",
+		Author:  "Chuck Harmston (https://chuck.harmston.ch)",
 		Color00: color.RGBA{R: 245, G: 247, B: 250, A: 255},
 		Color01: color.RGBA{R: 232, G: 233, B: 237, A: 255},
 		Color02: color.RGBA{R: 166, G: 175, B: 184, A: 255},

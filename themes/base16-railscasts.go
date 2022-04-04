@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Railscasts"] = Theme{
-		Name: "Railscasts",
-		Author: "Ryan Bates (http://railscasts.com)",
+		Name:    "Railscasts",
+		Author:  "Ryan Bates (http://railscasts.com)",
 		Color00: color.RGBA{R: 43, G: 43, B: 43, A: 255},
 		Color01: color.RGBA{R: 39, G: 41, B: 53, A: 255},
 		Color02: color.RGBA{R: 58, G: 64, B: 85, A: 255},

@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["PhD"] = Theme{
-		Name: "PhD",
-		Author: "Hennig Hasemann (http://leetless.de/vim.html)",
+		Name:    "PhD",
+		Author:  "Hennig Hasemann (http://leetless.de/vim.html)",
 		Color00: color.RGBA{R: 6, G: 18, B: 41, A: 255},
 		Color01: color.RGBA{R: 42, G: 52, B: 72, A: 255},
 		Color02: color.RGBA{R: 77, G: 86, B: 102, A: 255},

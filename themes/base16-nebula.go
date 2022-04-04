@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Nebula"] = Theme{
-		Name: "Nebula",
-		Author: "Gabriel Fontes (https://github.com/Misterio77)",
+		Name:    "Nebula",
+		Author:  "Gabriel Fontes (https://github.com/Misterio77)",
 		Color00: color.RGBA{R: 34, G: 39, B: 59, A: 255},
 		Color01: color.RGBA{R: 65, G: 79, B: 96, A: 255},
 		Color02: color.RGBA{R: 90, G: 131, B: 128, A: 255},

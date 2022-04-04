@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Grayscale Light"] = Theme{
-		Name: "Grayscale Light",
-		Author: "Alexandre Gavioli (https://github.com/Alexx2/)",
+		Name:    "Grayscale Light",
+		Author:  "Alexandre Gavioli (https://github.com/Alexx2/)",
 		Color00: color.RGBA{R: 247, G: 247, B: 247, A: 255},
 		Color01: color.RGBA{R: 227, G: 227, B: 227, A: 255},
 		Color02: color.RGBA{R: 185, G: 185, B: 185, A: 255},

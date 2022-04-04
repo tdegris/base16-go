@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Classic Dark"] = Theme{
-		Name: "Classic Dark",
-		Author: "Jason Heeris (http://heeris.id.au)",
+		Name:    "Classic Dark",
+		Author:  "Jason Heeris (http://heeris.id.au)",
 		Color00: color.RGBA{R: 21, G: 21, B: 21, A: 255},
 		Color01: color.RGBA{R: 32, G: 32, B: 32, A: 255},
 		Color02: color.RGBA{R: 48, G: 48, B: 48, A: 255},

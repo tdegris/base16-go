@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Circus"] = Theme{
-		Name: "Circus",
-		Author: "Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)",
+		Name:    "Circus",
+		Author:  "Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)",
 		Color00: color.RGBA{R: 25, G: 25, B: 25, A: 255},
 		Color01: color.RGBA{R: 32, G: 32, B: 32, A: 255},
 		Color02: color.RGBA{R: 48, G: 48, B: 48, A: 255},

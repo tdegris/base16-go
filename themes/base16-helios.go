@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Helios"] = Theme{
-		Name: "Helios",
-		Author: "Alex Meyer (https://github.com/reyemxela)",
+		Name:    "Helios",
+		Author:  "Alex Meyer (https://github.com/reyemxela)",
 		Color00: color.RGBA{R: 29, G: 32, B: 33, A: 255},
 		Color01: color.RGBA{R: 56, G: 60, B: 62, A: 255},
 		Color02: color.RGBA{R: 83, G: 88, B: 91, A: 255},

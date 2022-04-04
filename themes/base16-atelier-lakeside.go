@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Atelier Lakeside"] = Theme{
-		Name: "Atelier Lakeside",
-		Author: "Bram de Haan (http://atelierbramdehaan.nl)",
+		Name:    "Atelier Lakeside",
+		Author:  "Bram de Haan (http://atelierbramdehaan.nl)",
 		Color00: color.RGBA{R: 22, G: 27, B: 29, A: 255},
 		Color01: color.RGBA{R: 31, G: 41, B: 46, A: 255},
 		Color02: color.RGBA{R: 81, G: 109, B: 123, A: 255},

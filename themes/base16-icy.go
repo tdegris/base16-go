@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Icy Dark"] = Theme{
-		Name: "Icy Dark",
-		Author: "icyphox (https://icyphox.ga)",
+		Name:    "Icy Dark",
+		Author:  "icyphox (https://icyphox.ga)",
 		Color00: color.RGBA{R: 2, G: 16, B: 18, A: 255},
 		Color01: color.RGBA{R: 3, G: 22, B: 25, A: 255},
 		Color02: color.RGBA{R: 4, G: 31, B: 35, A: 255},

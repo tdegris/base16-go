@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Spacemacs"] = Theme{
-		Name: "Spacemacs",
-		Author: "Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)",
+		Name:    "Spacemacs",
+		Author:  "Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)",
 		Color00: color.RGBA{R: 31, G: 32, B: 34, A: 255},
 		Color01: color.RGBA{R: 40, G: 40, B: 40, A: 255},
 		Color02: color.RGBA{R: 68, G: 65, B: 85, A: 255},

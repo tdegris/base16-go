@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Tango"] = Theme{
-		Name: "Tango",
-		Author: "@Schnouki, based on the Tango Desktop Project",
+		Name:    "Tango",
+		Author:  "@Schnouki, based on the Tango Desktop Project",
 		Color00: color.RGBA{R: 46, G: 52, B: 54, A: 255},
 		Color01: color.RGBA{R: 138, G: 226, B: 52, A: 255},
 		Color02: color.RGBA{R: 252, G: 233, B: 79, A: 255},

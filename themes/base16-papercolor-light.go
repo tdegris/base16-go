@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["PaperColor Light"] = Theme{
-		Name: "PaperColor Light",
-		Author: "Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
+		Name:    "PaperColor Light",
+		Author:  "Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
 		Color00: color.RGBA{R: 238, G: 238, B: 238, A: 255},
 		Color01: color.RGBA{R: 175, G: 0, B: 0, A: 255},
 		Color02: color.RGBA{R: 0, G: 135, B: 0, A: 255},

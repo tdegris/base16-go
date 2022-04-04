@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Codeschool"] = Theme{
-		Name: "Codeschool",
-		Author: "blockloop",
+		Name:    "Codeschool",
+		Author:  "blockloop",
 		Color00: color.RGBA{R: 35, G: 44, B: 49, A: 255},
 		Color01: color.RGBA{R: 28, G: 54, B: 87, A: 255},
 		Color02: color.RGBA{R: 42, G: 52, B: 58, A: 255},

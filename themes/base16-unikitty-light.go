@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Unikitty Light"] = Theme{
-		Name: "Unikitty Light",
-		Author: "Josh W Lewis (@joshwlewis)",
+		Name:    "Unikitty Light",
+		Author:  "Josh W Lewis (@joshwlewis)",
 		Color00: color.RGBA{R: 255, G: 255, B: 255, A: 255},
 		Color01: color.RGBA{R: 225, G: 225, B: 226, A: 255},
 		Color02: color.RGBA{R: 196, G: 195, B: 197, A: 255},

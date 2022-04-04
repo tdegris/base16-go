@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Monokai"] = Theme{
-		Name: "Monokai",
-		Author: "Wimer Hazenberg (http://www.monokai.nl)",
+		Name:    "Monokai",
+		Author:  "Wimer Hazenberg (http://www.monokai.nl)",
 		Color00: color.RGBA{R: 39, G: 40, B: 34, A: 255},
 		Color01: color.RGBA{R: 56, G: 56, B: 48, A: 255},
 		Color02: color.RGBA{R: 73, G: 72, B: 62, A: 255},

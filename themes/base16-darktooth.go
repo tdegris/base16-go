@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Darktooth"] = Theme{
-		Name: "Darktooth",
-		Author: "Jason Milkins (https://github.com/jasonm23)",
+		Name:    "Darktooth",
+		Author:  "Jason Milkins (https://github.com/jasonm23)",
 		Color00: color.RGBA{R: 29, G: 32, B: 33, A: 255},
 		Color01: color.RGBA{R: 50, G: 48, B: 47, A: 255},
 		Color02: color.RGBA{R: 80, G: 73, B: 69, A: 255},

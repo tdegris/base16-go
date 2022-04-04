@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Solarized Dark"] = Theme{
-		Name: "Solarized Dark",
-		Author: "Ethan Schoonover (modified by aramisgithub)",
+		Name:    "Solarized Dark",
+		Author:  "Ethan Schoonover (modified by aramisgithub)",
 		Color00: color.RGBA{R: 0, G: 43, B: 54, A: 255},
 		Color01: color.RGBA{R: 7, G: 54, B: 66, A: 255},
 		Color02: color.RGBA{R: 88, G: 110, B: 117, A: 255},

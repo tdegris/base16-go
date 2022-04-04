@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Outrun Dark"] = Theme{
-		Name: "Outrun Dark",
-		Author: "Hugo Delahousse (http://github.com/hugodelahousse/)",
+		Name:    "Outrun Dark",
+		Author:  "Hugo Delahousse (http://github.com/hugodelahousse/)",
 		Color00: color.RGBA{R: 0, G: 0, B: 42, A: 255},
 		Color01: color.RGBA{R: 32, G: 32, B: 74, A: 255},
 		Color02: color.RGBA{R: 48, G: 48, B: 90, A: 255},

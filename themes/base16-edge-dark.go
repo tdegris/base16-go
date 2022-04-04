@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Edge Dark"] = Theme{
-		Name: "Edge Dark",
-		Author: "cjayross (https://github.com/cjayross)",
+		Name:    "Edge Dark",
+		Author:  "cjayross (https://github.com/cjayross)",
 		Color00: color.RGBA{R: 38, G: 39, B: 41, A: 255},
 		Color01: color.RGBA{R: 136, G: 144, B: 159, A: 255},
 		Color02: color.RGBA{R: 183, G: 190, B: 201, A: 255},

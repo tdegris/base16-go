@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["DanQing"] = Theme{
-		Name: "DanQing",
-		Author: "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)",
+		Name:    "DanQing",
+		Author:  "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)",
 		Color00: color.RGBA{R: 45, G: 48, B: 47, A: 255},
 		Color01: color.RGBA{R: 67, G: 72, B: 70, A: 255},
 		Color02: color.RGBA{R: 90, G: 96, B: 93, A: 255},

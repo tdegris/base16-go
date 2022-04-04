@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Windows High Contrast Light"] = Theme{
-		Name: "Windows High Contrast Light",
-		Author: "Fergus Collins (https://github.com/C-Fergus)",
+		Name:    "Windows High Contrast Light",
+		Author:  "Fergus Collins (https://github.com/C-Fergus)",
 		Color00: color.RGBA{R: 252, G: 252, B: 252, A: 255},
 		Color01: color.RGBA{R: 232, G: 232, B: 232, A: 255},
 		Color02: color.RGBA{R: 212, G: 212, B: 212, A: 255},

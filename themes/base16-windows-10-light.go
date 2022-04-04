@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Windows 10 Light"] = Theme{
-		Name: "Windows 10 Light",
-		Author: "Fergus Collins (https://github.com/C-Fergus)",
+		Name:    "Windows 10 Light",
+		Author:  "Fergus Collins (https://github.com/C-Fergus)",
 		Color00: color.RGBA{R: 242, G: 242, B: 242, A: 255},
 		Color01: color.RGBA{R: 229, G: 229, B: 229, A: 255},
 		Color02: color.RGBA{R: 217, G: 217, B: 217, A: 255},

@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Twilight"] = Theme{
-		Name: "Twilight",
-		Author: "David Hart (https://github.com/hartbit)",
+		Name:    "Twilight",
+		Author:  "David Hart (https://github.com/hartbit)",
 		Color00: color.RGBA{R: 30, G: 30, B: 30, A: 255},
 		Color01: color.RGBA{R: 50, G: 53, B: 55, A: 255},
 		Color02: color.RGBA{R: 70, G: 75, B: 80, A: 255},

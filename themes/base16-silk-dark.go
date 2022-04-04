@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Silk Dark"] = Theme{
-		Name: "Silk Dark",
-		Author: "Gabriel Fontes (https://github.com/Misterio77)",
+		Name:    "Silk Dark",
+		Author:  "Gabriel Fontes (https://github.com/Misterio77)",
 		Color00: color.RGBA{R: 14, G: 60, B: 70, A: 255},
 		Color01: color.RGBA{R: 29, G: 73, B: 78, A: 255},
 		Color02: color.RGBA{R: 42, G: 80, B: 84, A: 255},

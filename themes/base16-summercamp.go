@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["summercamp"] = Theme{
-		Name: "summercamp",
-		Author: "zoe firi (zoefiri.github.io)",
+		Name:    "summercamp",
+		Author:  "zoe firi (zoefiri.github.io)",
 		Color00: color.RGBA{R: 28, G: 24, B: 16, A: 255},
 		Color01: color.RGBA{R: 42, G: 38, B: 28, A: 255},
 		Color02: color.RGBA{R: 58, G: 53, B: 39, A: 255},

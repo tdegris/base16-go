@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Github"] = Theme{
-		Name: "Github",
-		Author: "Defman21",
+		Name:    "Github",
+		Author:  "Defman21",
 		Color00: color.RGBA{R: 255, G: 255, B: 255, A: 255},
 		Color01: color.RGBA{R: 245, G: 245, B: 245, A: 255},
 		Color02: color.RGBA{R: 200, G: 200, B: 250, A: 255},

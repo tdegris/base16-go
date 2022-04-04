@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Gruvbox dark, soft"] = Theme{
-		Name: "Gruvbox dark, soft",
-		Author: "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+		Name:    "Gruvbox dark, soft",
+		Author:  "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
 		Color00: color.RGBA{R: 50, G: 48, B: 47, A: 255},
 		Color01: color.RGBA{R: 60, G: 56, B: 54, A: 255},
 		Color02: color.RGBA{R: 80, G: 73, B: 69, A: 255},

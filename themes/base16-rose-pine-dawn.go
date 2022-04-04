@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Rosé Pine Dawn"] = Theme{
-		Name: "Rosé Pine Dawn",
-		Author: "Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;",
+		Name:    "Rosé Pine Dawn",
+		Author:  "Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;",
 		Color00: color.RGBA{R: 250, G: 244, B: 237, A: 255},
 		Color01: color.RGBA{R: 255, G: 250, B: 243, A: 255},
 		Color02: color.RGBA{R: 242, G: 233, B: 222, A: 255},

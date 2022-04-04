@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Porple"] = Theme{
-		Name: "Porple",
-		Author: "Niek den Breeje (https://github.com/AuditeMarlow)",
+		Name:    "Porple",
+		Author:  "Niek den Breeje (https://github.com/AuditeMarlow)",
 		Color00: color.RGBA{R: 41, G: 44, B: 54, A: 255},
 		Color01: color.RGBA{R: 51, G: 51, B: 68, A: 255},
 		Color02: color.RGBA{R: 71, G: 65, B: 96, A: 255},

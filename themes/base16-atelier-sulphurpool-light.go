@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Atelier Sulphurpool Light"] = Theme{
-		Name: "Atelier Sulphurpool Light",
-		Author: "Bram de Haan (http://atelierbramdehaan.nl)",
+		Name:    "Atelier Sulphurpool Light",
+		Author:  "Bram de Haan (http://atelierbramdehaan.nl)",
 		Color00: color.RGBA{R: 245, G: 247, B: 255, A: 255},
 		Color01: color.RGBA{R: 223, G: 226, B: 241, A: 255},
 		Color02: color.RGBA{R: 151, G: 157, B: 180, A: 255},

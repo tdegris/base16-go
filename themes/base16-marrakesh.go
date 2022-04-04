@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Marrakesh"] = Theme{
-		Name: "Marrakesh",
-		Author: "Alexandre Gavioli (http://github.com/Alexx2/)",
+		Name:    "Marrakesh",
+		Author:  "Alexandre Gavioli (http://github.com/Alexx2/)",
 		Color00: color.RGBA{R: 32, G: 22, B: 2, A: 255},
 		Color01: color.RGBA{R: 48, G: 46, B: 0, A: 255},
 		Color02: color.RGBA{R: 95, G: 91, B: 23, A: 255},

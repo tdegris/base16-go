@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Google Dark"] = Theme{
-		Name: "Google Dark",
-		Author: "Seth Wright (http://sethawright.com)",
+		Name:    "Google Dark",
+		Author:  "Seth Wright (http://sethawright.com)",
 		Color00: color.RGBA{R: 29, G: 31, B: 33, A: 255},
 		Color01: color.RGBA{R: 40, G: 42, B: 46, A: 255},
 		Color02: color.RGBA{R: 55, G: 59, B: 65, A: 255},

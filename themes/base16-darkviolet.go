@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Dark Violet"] = Theme{
-		Name: "Dark Violet",
-		Author: "ruler501 (https://github.com/ruler501/base16-darkviolet)",
+		Name:    "Dark Violet",
+		Author:  "ruler501 (https://github.com/ruler501/base16-darkviolet)",
 		Color00: color.RGBA{R: 0, G: 0, B: 0, A: 255},
 		Color01: color.RGBA{R: 35, G: 26, B: 64, A: 255},
 		Color02: color.RGBA{R: 67, G: 45, B: 89, A: 255},

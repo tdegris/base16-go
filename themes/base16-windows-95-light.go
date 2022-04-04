@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Windows 95 Light"] = Theme{
-		Name: "Windows 95 Light",
-		Author: "Fergus Collins (https://github.com/C-Fergus)",
+		Name:    "Windows 95 Light",
+		Author:  "Fergus Collins (https://github.com/C-Fergus)",
 		Color00: color.RGBA{R: 252, G: 252, B: 252, A: 255},
 		Color01: color.RGBA{R: 224, G: 224, B: 224, A: 255},
 		Color02: color.RGBA{R: 196, G: 196, B: 196, A: 255},

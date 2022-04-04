@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Humanoid dark"] = Theme{
-		Name: "Humanoid dark",
-		Author: "Thomas (tasmo) Friese",
+		Name:    "Humanoid dark",
+		Author:  "Thomas (tasmo) Friese",
 		Color00: color.RGBA{R: 35, G: 38, B: 41, A: 255},
 		Color01: color.RGBA{R: 51, G: 59, B: 61, A: 255},
 		Color02: color.RGBA{R: 72, G: 78, B: 84, A: 255},

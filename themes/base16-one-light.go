@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["One Light"] = Theme{
-		Name: "One Light",
-		Author: "Daniel Pfeifer (http://github.com/purpleKarrot)",
+		Name:    "One Light",
+		Author:  "Daniel Pfeifer (http://github.com/purpleKarrot)",
 		Color00: color.RGBA{R: 250, G: 250, B: 250, A: 255},
 		Color01: color.RGBA{R: 240, G: 240, B: 241, A: 255},
 		Color02: color.RGBA{R: 229, G: 229, B: 230, A: 255},

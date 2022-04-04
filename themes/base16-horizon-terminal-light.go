@@ -4,8 +4,8 @@ import "image/color"
 
 func init() {
 	Base16["Horizon Light"] = Theme{
-		Name: "Horizon Light",
-		Author: "Michaël Ball (http://github.com/michael-ball/)",
+		Name:    "Horizon Light",
+		Author:  "Michaël Ball (http://github.com/michael-ball/)",
 		Color00: color.RGBA{R: 253, G: 240, B: 237, A: 255},
 		Color01: color.RGBA{R: 250, G: 218, B: 209, A: 255},
 		Color02: color.RGBA{R: 249, G: 203, B: 190, A: 255},
